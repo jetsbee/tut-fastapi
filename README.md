@@ -22,7 +22,7 @@ $ . venv/bin/activate
 # Work inside the container
 
 ## Run the live server
-$ uvicorn main:app --reload
+$ uvicorn src.main:app --reload
 
 # End of working inside the container
 
